@@ -2,6 +2,7 @@
   width: 100%;
   margin: auto;
   height: 250px;
+  /* it gives some weird border that i should fix */
   overflow: scroll;
   text-align: center;
   font-weight: bold;
